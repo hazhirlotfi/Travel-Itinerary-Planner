@@ -1,1 +1,1 @@
-# Travel-Itinerary-Planner
+This is my code to plan a trip. You say how much time you have and how many places you want to visit (1-100, keep it reasonable). It uses Floyd-Warshall to get the shortest paths between attractions and a greedy method to pick what fits in your time limit. You can add INF for paths that don’t exist if you want. Prints out the itinerary with visit times and total minutes used.
